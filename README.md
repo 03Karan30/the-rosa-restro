@@ -1,6 +1,7 @@
 # The Rosa 🍔
 * A Beautiful and Fully Responsive Animated FrontEnd Website of a restaurant named "the Rosa".
-* It is made using Mobile-first approach for 
+* It is made using Mobile-first approach for better overall responsiveness.
+* **Website Link** : [the-Rosa](https://03karan30.github.io/the-rosa-restro/)
 
 ## Screenshot
 
